@@ -1,1 +1,9 @@
+title: Daniel Herman's Personal Webpage
+author:
+  name: Daniel Herman
+  email: d.c.herman02@gmail.com
+
 theme: minima
+
+minima:
+  skin: dark
