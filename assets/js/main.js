@@ -387,15 +387,23 @@
 
 		// Initialize.
 
+			var isHomePage = (window.location.pathname === '/' || window.location.pathname === '/index.html');
+
+			if (isHomePage) {
 			// Hide main, articles.
 				$main.hide();
 				$main_articles.hide();
 
 			// Initial article.
 				if (location.hash != ''
-				&&	location.hash != '#')
+				&&	location.hash != '#') {
 					$window.on('load', function() {
 						$main._show(location.hash.substr(1), true);
 					});
+				}
+				} else {
+					$main.show();
+					$main_articles.show();
+				}
 
 })(jQuery);

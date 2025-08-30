@@ -4,3 +4,6 @@ author:
   email: d.c.herman02@gmail.com
 
 theme: minima
+
+sidebar:
+  - index.html
