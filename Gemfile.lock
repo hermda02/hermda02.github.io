@@ -93,13 +93,15 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll-archives
-  jekyll-feed
-  jekyll-paginate
-  jekyll-seo-tag
-  jekyll-sitemap
-  kramdown
-  rouge
+  github-pages (~> 228)
+  http_parser.rb (~> 0.6.0)
+  jekyll-feed (~> 0.12)
+  minima (~> 2.5)
+  sass (~> 3.7.4)
+  tzinfo (>= 1, < 3)
+  tzinfo-data
+  wdm (~> 0.1.1)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.5.23
