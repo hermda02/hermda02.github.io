@@ -28,14 +28,25 @@ Thermal Dust Emission in the Microwave Frequency Range
 __B.A. Mathematics, Physics, Luther College__
 
 ## Selected Publications
-__Herman, D.__, R. A. Watson, et al. *BeyondPlanck V. Minimal ADC Corrections for Planck LFI.* 
+__Herman, D.__, R. A. Watson, et al.<br /> *BeyondPlanck V. Minimal ADC Corrections for Planck LFI.*<br /> 
 Astronomy & Astrophysics 675, A5 (2023)
 
-__Herman, D.__, B. Hensley, et al. *BeyondPlanck XVI. Limits on Large-Scale Polarized Anomalous Microwave Emission from Planck LFI and WMAP.* Astronomy & Astrophysics 675, A15 (2023)
+__Herman, D.__, B. Hensley, et al.<br /> *BeyondPlanck XVI. Limits on Large-Scale Polarized Anomalous Microwave Emission from Planck LFI and WMAP.*<br /> Astronomy & Astrophysics 675, A15 (2023)
 
-K. J. Andersen, __Herman, D.__, et al. *BeyondPlanck XIII. Intensity foreground sampling, degeneracies, and priors.* Astronomy & Astrophysics 675, A13 (2023)
+K. J. Andersen, __Herman, D.__, et al.<br /> *BeyondPlanck XIII. Intensity foreground sampling, degeneracies, and priors.*<br /> Astronomy & Astrophysics 675, A13 (2023)
 
-M. San, __Herman, D.__, G. B. Erikstad, M. Galloway, and D. Watts. *COSMOGLOBE: Simulating zodiacal emission with ZodiPy.* Astronomy & Astrophysics 666, A107 (2022)
+M. San, __Herman, D.__, G. B. Erikstad, M. Galloway, and D. Watts.<br /> *COSMOGLOBE: Simulating zodiacal emission with ZodiPy.*<br /> Astronomy & Astrophysics 666, A107 (2022)
+
+## Student Advising 
+`2020`
+Metin San\
+M.Sc. Astronomy, University of Oslo<br /> 
+*Time-ordered modelling of Zodiacal Emission in BeyondPlanck*
+
+`2022`
+Gustav Erikstad\
+M.Sc. Astronomy, University of Oslo<br /> 
+*Astrophysical archaeology: Reviving COBE-DIRBE for next-generation global analysis*
 
 ## Languages
 * English - Native
