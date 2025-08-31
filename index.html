@@ -5,6 +5,11 @@ tags: home
 {% assign posts_count = paginator.posts | size %}
 
 <div class="home">
+  <div style="text-align: center;">
+    <img style="border-radius: 50%; max-width: 250px;" src="/images/headshot.jpg">
+	<h2>Daniel Herman</h2>
+  </div>
+  <hr>
   {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
