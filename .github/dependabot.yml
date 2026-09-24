@@ -1,6 +1,13 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
+  # Monitors Gemfile & Gemfile.lock for Jekyll gems and plugins
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # Optional: Keeps GitHub Actions deployment workflows updated
+  - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "weekly"
